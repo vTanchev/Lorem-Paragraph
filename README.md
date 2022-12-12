@@ -2,7 +2,7 @@
 
 ## Lorem Paragraph | Vanilla JavaScript
 
-![screenshot](/Screenshot_2.png)
+![screenshot](/img/Screenshot_2.png)
 
 ## Built With
 
